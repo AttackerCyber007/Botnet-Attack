@@ -20,7 +20,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet Botnet Attack")
 print
-print "Author   : 5H311_1NJ3C706"
+print $red"Author   : 5H311_1NJ3C706"
 print "You Tube : https://www.youtube.com/channel/UCIMivWDElHbU15xnxW1RShw"
 print "github   : https://github.com/DarkNet-Hacker-Team"
 print "Facebook : https://www.facebook.com/kevin.malware.5"
