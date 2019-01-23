@@ -1,15 +1,15 @@
 # Botnet-Attack 
 
 
-### Dwonload&Install
+### Dwonload & Install
 
-### git clone https://github.com/Ha3MrX/DDos-Attack
+### git clone https://github.com/DarkNet-Hacker-Team/Botnet-Attack
 
 ### cd Botnet-Attack
 
 ### chmod +x Botnet.py
 
-### python Botnet.py
+### python2 Botnet.py
 
 
 ### YouTube channel
